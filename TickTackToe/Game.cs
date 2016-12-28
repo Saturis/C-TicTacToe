@@ -23,7 +23,7 @@ namespace TickTackToe
             Players.Add(one);
             Players[0].Piece = "x";
             Players.Add(two);
-            Players[1].Piece = "0";
+            Players[1].Piece = "o";
             turn = true;
         }
         /// <summary>
